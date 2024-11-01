@@ -1,0 +1,15 @@
+{
+  "name": "devmatch",
+  "version": "1.0.0",
+  "description": "- DevMatch is a networking platform tailored for developers to easily connect with others who share similar skills, interests, or projects. Whether you're looking to collaborate on open-source projects, find a study partner for a new technology, or simply expand your professional network, devTinder matches developers based on skill compatibility, preferred tech stacks, and project goals.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
